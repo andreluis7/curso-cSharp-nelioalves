@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados", "TiposDeDados\TiposDeDados.csproj", "{EE959A1B-1616-4E56-91D7-0D5DCC138D3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados", "TiposDeDados\TiposDeDados.csproj", "{EE959A1B-1616-4E56-91D7-0D5DCC138D3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDeDados", "SaidaDeDados\SaidaDeDados.csproj", "{311D6E57-2987-4E17-980D-A3715DA3B9B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDeDados", "SaidaDeDados\SaidaDeDados.csproj", "{311D6E57-2987-4E17-980D-A3715DA3B9B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{12941485-55F0-4889-8603-9C76A27BB2C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{12941485-55F0-4889-8603-9C76A27BB2C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{564B917D-051A-49A0-92CE-86E2EC3970C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{564B917D-051A-49A0-92CE-86E2EC3970C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{A51D6CD4-A9B6-4513-880A-42F51C8BCB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{A51D6CD4-A9B6-4513-880A-42F51C8BCB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{BEAFDD85-D55A-46DD-A1E3-D32BD7514A59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{BEAFDD85-D55A-46DD-A1E3-D32BD7514A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{23EB7D82-3A5C-4E5F-853A-196A859AC0A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BEAFDD85-D55A-46DD-A1E3-D32BD7514A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAFDD85-D55A-46DD-A1E3-D32BD7514A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAFDD85-D55A-46DD-A1E3-D32BD7514A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EB7D82-3A5C-4E5F-853A-196A859AC0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EB7D82-3A5C-4E5F-853A-196A859AC0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EB7D82-3A5C-4E5F-853A-196A859AC0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EB7D82-3A5C-4E5F-853A-196A859AC0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
