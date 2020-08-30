@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "Operad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicionalIfElse", "EstruturaCondicionalIfElse\EstruturaCondicionalIfElse.csproj", "{8032DAFC-2907-4A1A-905B-80EE9E7DEF3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcao", "Funcao\Funcao.csproj", "{AFA152A2-ABF0-40BA-8C93-4532BC3D90A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8032DAFC-2907-4A1A-905B-80EE9E7DEF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8032DAFC-2907-4A1A-905B-80EE9E7DEF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8032DAFC-2907-4A1A-905B-80EE9E7DEF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA152A2-ABF0-40BA-8C93-4532BC3D90A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA152A2-ABF0-40BA-8C93-4532BC3D90A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA152A2-ABF0-40BA-8C93-4532BC3D90A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA152A2-ABF0-40BA-8C93-4532BC3D90A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
