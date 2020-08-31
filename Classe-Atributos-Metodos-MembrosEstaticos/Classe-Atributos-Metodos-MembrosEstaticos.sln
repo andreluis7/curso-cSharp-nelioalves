@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaSemOrientacaoObjeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoEntidades", "UtilizandoEntidades\UtilizandoEntidades.csproj", "{48CE82BD-6BA9-4D69-AF18-275888689B36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{2F6068FA-B7E4-4A09-A435-CD7C926AA8FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{48CE82BD-6BA9-4D69-AF18-275888689B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48CE82BD-6BA9-4D69-AF18-275888689B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48CE82BD-6BA9-4D69-AF18-275888689B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6068FA-B7E4-4A09-A435-CD7C926AA8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6068FA-B7E4-4A09-A435-CD7C926AA8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6068FA-B7E4-4A09-A435-CD7C926AA8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6068FA-B7E4-4A09-A435-CD7C926AA8FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
